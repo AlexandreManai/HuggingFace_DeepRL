@@ -4,7 +4,7 @@ Welcome to my personal journey through the Hugging Face Deep Reinforcement Learn
 
 ## Course Overview 🎓
 
-This course is a deep dive into the fascinating world of Deep Reinforcement Learning (DRL) 🤖. It covers everything from the basics to more advanced topics, with hands-on practice in unique environments and the opportunity to participate in exciting challenges 🏆.
+This course is a deep dive into the fascinating world of Deep Reinforcement Learning (DRL) 🤖. It covers everything from the basics to more advanced topics, with hands-on practice in unique environments and the opportunity to participate in exciting challenges 🏆
 
 ### What to Expect 🌟
 
