@@ -24,7 +24,7 @@ Below is the breakdown of the course units and my completion status:
 - [x] **UNIT 1: Introduction to Deep Reinforcement Learning** 📘
 - [x] **BONUS UNIT 1: Introduction to Deep RL with Huggy** 🐶
 - [x] **LIVE 1: Course Mechanics, Q&A, and Playing with Huggy** 🎙️
-- [ ] **UNIT 2: Introduction to Q-Learning** 🧩
+- [x] **UNIT 2: Introduction to Q-Learning** 🧩
 - [ ] **UNIT 3: Deep Q-Learning with Atari Games** 🕹️
 - [ ] **BONUS UNIT 2: Automatic Hyperparameter Tuning with Optuna** 🔧
 - [ ] **UNIT 4: Policy Gradient with PyTorch** 🔥
