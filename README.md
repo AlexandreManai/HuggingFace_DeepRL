@@ -26,7 +26,7 @@ Below is the breakdown of the course units and my completion status:
 - [x] **LIVE 1: Course Mechanics, Q&A, and Playing with Huggy** 🎙️
 - [x] **UNIT 2: Introduction to Q-Learning** 🧩
 - [x] **UNIT 3: Deep Q-Learning with Atari Games** 🕹️
-- [ ] **BONUS UNIT 2: Automatic Hyperparameter Tuning with Optuna** 🔧
+- [x] **BONUS UNIT 2: Automatic Hyperparameter Tuning with Optuna** 🔧
 - [ ] **UNIT 4: Policy Gradient with PyTorch** 🔥
 - [ ] **UNIT 5: Introduction to Unity ML-Agents** 🤖
 - [ ] **UNIT 6: Actor Critic Methods with Robotics Environments** 🤖🔬
