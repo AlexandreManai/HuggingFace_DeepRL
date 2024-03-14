@@ -32,7 +32,7 @@ Below is the breakdown of the course units and my completion status:
 - [x] **UNIT 6: Actor Critic Methods with Robotics Environments** 🤖🔬
 - [ ] **UNIT 7: Introduction to Multi-Agents and AI vs AI** 👾
 - [ ] **UNIT 8: Proximal Policy Optimization (PPO)** 📈
-  - [ ] Part 1: PPO
+  - [x] Part 1: PPO
   - [ ] Part 2: PPO with Doom
 - [ ] **BONUS UNIT 3: Advanced Topics in Reinforcement Learning** 🧠
 - [ ] **Certification and Congratulations** 🎓
