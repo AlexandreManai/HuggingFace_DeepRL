@@ -34,7 +34,7 @@ Below is the breakdown of the course units and my completion status:
 - [x] **UNIT 8: Proximal Policy Optimization (PPO)** 📈
   - [x] Part 1: PPO
   - [x] Part 2: PPO with Doom
-- [ ] **BONUS UNIT 3: Advanced Topics in Reinforcement Learning** 🧠
+- [x] **BONUS UNIT 3: Advanced Topics in Reinforcement Learning** 🧠
 - [x] **Certification and Congratulations** 🎓
 
 ## Tools & Resources 🛠️
