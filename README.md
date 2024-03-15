@@ -30,20 +30,12 @@ Below is the breakdown of the course units and my completion status:
 - [x] **UNIT 4: Policy Gradient with PyTorch** 🔥
 - [x] **UNIT 5: Introduction to Unity ML-Agents** 🤖
 - [x] **UNIT 6: Actor Critic Methods with Robotics Environments** 🤖🔬
-- [ ] **UNIT 7: Introduction to Multi-Agents and AI vs AI** 👾
+- [x] **UNIT 7: Introduction to Multi-Agents and AI vs AI** 👾
 - [x] **UNIT 8: Proximal Policy Optimization (PPO)** 📈
   - [x] Part 1: PPO
   - [x] Part 2: PPO with Doom
 - [ ] **BONUS UNIT 3: Advanced Topics in Reinforcement Learning** 🧠
-- [ ] **Certification and Congratulations** 🎓
-
-## Reflections and Learning 🤔
-
-I'll share my weekly reflections, key takeaways, and areas for improvement:
-
-- Week 1: [Reflections]
-- Week 2: [Reflections]
-- ... and so on.
+- [x] **Certification and Congratulations** 🎓
 
 ## Tools & Resources 🛠️
 
