@@ -1,6 +1,6 @@
 # 🤗 Hugging Face Deep Reinforcement Learning Course Progress 🚀
 
-Welcome to my personal journey through the Hugging Face Deep Reinforcement Learning Course! This repository serves as my digital logbook 📓, where I track my progress, store completed assignments 📝, and share insights and challenges I encounter along the way.
+Welcome to my personal journey through the Hugging Face Deep Reinforcement Learning Course! This repository serves as my digital logbook 📓, where I track my progress, store completed assignments 📝, and share insights and challenges I encounter along the way
 
 ## Course Overview 🎓
 
